@@ -33,7 +33,7 @@ resource "aws_instance" "web2" {
     Name = "new instance"
   }
 }
-
+}
 
 
 
