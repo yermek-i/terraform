@@ -33,7 +33,7 @@ resource "aws_instance" "web2" {
     Name = "new instance"
   }
 }
-}
+
 
 
 
@@ -45,6 +45,6 @@ resource "aws_instance" "web3" {
     Name = "NewOne"
   }
 
-
+}
 
 
